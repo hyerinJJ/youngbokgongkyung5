@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+  .aprilgongkyung__01{
+    width: 100vh;
+  }
+}
+
+.aprilgongkyung__01{
+  position: relative;
+  background-image: url('.images/001.png');
+  background-size: cover;
+  background-position: center;
+}
+
+
+@media (min-width: 769px) {
+
+}
